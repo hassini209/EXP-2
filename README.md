@@ -48,29 +48,40 @@ Procedure for Load test:
 7.   The motor is switched off by using DPST switch 1 after bringing all the rheostats to initial position.
 
 Tabulation for Open Circuit Test
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 17 27 PM" src="https://github.com/user-attachments/assets/bc525774-d644-4296-9a3e-fc029263f5c1" />
+<img width="1080" height="1368" alt="image" src="https://github.com/user-attachments/assets/11051d0b-bb7c-4c5e-b8d2-9cec428e0354" />
+
 
 Tabulation for Load Test:
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 17 28 PM" src="https://github.com/user-attachments/assets/a8c172db-2caa-4aa7-9faf-b0f736a6c9da" />
+<img width="1080" height="1551" alt="image" src="https://github.com/user-attachments/assets/b58f75d6-386b-469b-8bb7-04521b275402" />
+
 
 Model graph:
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 17 27 PM (1)" src="https://github.com/user-attachments/assets/760a77df-beeb-4d6e-b651-b68f26aacf7b" />
-<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 17 28 PM (1)" src="https://github.com/user-attachments/assets/7002544a-e55d-4cd1-8445-06d516113401" />
+<img width="928" height="1569" alt="image" src="https://github.com/user-attachments/assets/310d3640-2ca5-4def-8c5c-a79c4348c0cf" />
+
+<img width="879" height="1544" alt="image" src="https://github.com/user-attachments/assets/b74dc243-effc-4c66-b8d1-9b1f66e14699" />
+
+
 
 
 Calculation: 
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-25 at 8 15 48 PM" src="https://github.com/user-attachments/assets/a2866884-aebb-4fe2-b1dd-9eb0efd279df" />
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-25 at 8 15 48 PM (1)" src="https://github.com/user-attachments/assets/929ab3fd-9818-44ee-b9af-10107b2b7286" />
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-25 at 8 15 48 PM (2)" src="https://github.com/user-attachments/assets/6d3ee7df-4309-4fa3-b5c1-f9581eb2d162" />
+<img width="1064" height="1354" alt="image" src="https://github.com/user-attachments/assets/17147789-32f7-4210-a2b2-271fb8273900" />
+<img width="989" height="1319" alt="image" src="https://github.com/user-attachments/assets/b15c2185-aba5-4fc3-bd81-3d0f22864cb1" />
+<img width="1075" height="1341" alt="image" src="https://github.com/user-attachments/assets/ac439282-4536-46d3-9fa0-feb7cba201db" />
+
+
+
 
 
 
 Open circuit characteristics
-<img width="960" height="1280" alt="WhatsApp Image 2026-05-25 at 8 15 48 PM (3)" src="https://github.com/user-attachments/assets/5c76ff87-86ee-4a01-8086-98107a5b5e06" />
+<img width="805" height="1599" alt="WhatsApp Image 2026-05-27 at 01 27 05" src="https://github.com/user-attachments/assets/bb71103d-254d-4cd0-8a7c-8610d6db464e" />
+
+
 
   
 Load Characteristics:
- <img width="960" height="1280" alt="WhatsApp Image 2026-05-25 at 8 15 48 PM (4)" src="https://github.com/user-attachments/assets/6d0ca7c8-7d51-487c-a18e-248e98502adc" />
+<img width="911" height="1600" alt="WhatsApp Image 2026-05-27 at 01 27 33" src="https://github.com/user-attachments/assets/7f46e851-02ef-4e43-a278-c0688891a31a" />
 
+ 
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
